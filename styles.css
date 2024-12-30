@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFCBCB;
+    margin: 0;
+    padding: 0;
+}
+.cabeca-urso {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(171, 113, 113);
+}
