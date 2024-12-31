@@ -7,6 +7,8 @@ O objetivo principal é praticar os **conceitos aprendidos** durante o módulo. 
 - Atributos `top`, `bottom`, `left` e `right`, usados em conjunto com o `position` e
 - Modelagem de divs através de bordas;
 ## Desenvolvimento do projeto
-Quando desenvolvi o projeto no curso, utilizei do `position` apenas com o valor `absolute` e fiz o mesmo no projeto. No módulo, desenhei um gato, então me desafiei e pensei: "porque não tentar modelar um urso?" Procurei na internet e achei essa imagem que decidi usar como base (no meu caso, só o urso): ![urso marrom fofo](https://www.ashleysheridan.co.uk/img/articles/css_animals.png)
+Quando desenvolvi o projeto no curso, utilizei do `position` apenas com o valor `absolute` e fiz o mesmo no projeto. No módulo, desenhei um gato, então me desafiei e pensei: "porque não tentar modelar um urso?" Procurei na internet e achei essa imagem que decidi usar como base (no meu caso, só o urso):
+
+![urso marrom fofo](https://www.ashleysheridan.co.uk/img/articles/css_animals.png)
 
 Para quem quiser saber mais sobre todos os modelos acima, podem acessar o site da criadora [aqui](https://www.ashleysheridan.co.uk/blog/CSS+Zoo) e conferir cada um com mais detalhes.
