@@ -10,7 +10,7 @@ body {
 .cabeca-urso {
     width: 240px;
     height: 230px;
-    background-color: #B38B6D;
+    background: linear-gradient(#B38B6D 85%, #846751 100%);
     position: absolute;
     top: 0;
     left: 0;
