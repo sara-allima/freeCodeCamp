@@ -22,3 +22,21 @@ body {
     border-bottom-left-radius: 80%;
     border-bottom-right-radius: 80%;
 }
+.orelha-esquerda {
+    width: 70px;
+    height: 70px;
+    background-color: #B38B6D;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    left: -15px;
+}
+.orelha-direita {
+    width: 70px;
+    height: 70px;
+    background-color: #B38B6D;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    left: 192px;
+}
