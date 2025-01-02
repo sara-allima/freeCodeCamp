@@ -47,3 +47,55 @@ body {
     height: 50px;
     border-radius: 50%;
 }
+.olho {
+    width: 60px;
+    height: 45px;
+    background-color: #fff;
+    border-radius: 30% / 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.olho-esquerdo {
+    position: absolute;
+    top: 70px;
+    left: 40px;
+    transform: rotate(-40deg);
+}
+.olho-direito {
+    position: absolute;
+    top: 70px;
+    left: 135px;
+    transform: rotate(40deg);
+}
+.olho-interno {
+    width: 40px;
+    height: 40px;
+    background-color: #624137;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pupila {
+    background-color: #000;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+.brilho-olho {
+    background-color: #fff;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.brilho-olho-esquerdo {
+    position: absolute;
+    left: 33px;
+    top: 15px;
+}
+.brilho-olho-direito {
+    position: absolute;
+    left: 12px;
+    top: 15px;
+}
