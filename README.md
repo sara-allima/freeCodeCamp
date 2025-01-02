@@ -6,6 +6,7 @@ O objetivo principal é praticar os **conceitos aprendidos** durante o módulo. 
 - Atributo `position` e seus valores: `relative`, `absolute`, `fixed` e `sticky`;
 - Atributos `top`, `bottom`, `left` e `right`, usados em conjunto com o `position` e
 - Modelagem de divs através de bordas;
+- Mais sobre border-radius e modelagem de bordas
 ## Desenvolvimento do projeto
 Quando desenvolvi o projeto no curso, utilizei do `position` apenas com o valor `absolute` e fiz o mesmo no projeto. No módulo, desenhei um gato, então me desafiei e pensei: "porque não tentar modelar um urso?" Procurei na internet e achei essa imagem que decidi usar como base (no meu caso, só o urso):
 
