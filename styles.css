@@ -22,3 +22,28 @@ body {
     border-bottom-left-radius: 80%;
     border-bottom-right-radius: 80%;
 }
+.orelha {
+    width: 70px;
+    height: 70px;
+    background-color: #B38B6D;
+    border-radius: 50%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+}
+.orelha-esquerda {
+    top: -10px;
+    left: -15px;
+}
+.orelha-direita {
+    top: -10px;
+    left: 185px;
+}
+.orelhas-internas {
+    background-color: rgb(103, 27, 27);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
