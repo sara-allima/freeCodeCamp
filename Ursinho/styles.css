@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #FFCBCB;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.cabeca-urso {
+    width: 240px;
+    height: 230px;
+    background: linear-gradient(#B38B6D 85%, #846751 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 80%;
+    border-bottom-right-radius: 80%;
+}
