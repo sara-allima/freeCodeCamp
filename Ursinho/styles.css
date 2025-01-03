@@ -99,3 +99,53 @@ body {
     left: 12px;
     top: 15px;
 }
+.fucinho {
+    width: 90px;
+    height: 90px;
+    background-color: #834b3a;
+    position: absolute;
+    top: 105px;
+    left: 72px;
+    border-radius: 50% 50% 51% 49% / 58% 58% 42% 42% ;
+}
+.nariz {
+    width: 50px;
+    height: 45px;
+    background-color: #000;
+    border-radius: 50% 50% 50% 50% / 53% 50% 50% 47%;
+    position: absolute;
+    top: 7px;
+    left: 20px;
+}
+.brilho-nariz {
+    width: 15px;
+    height: 13px;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 7px;
+    left: 30px;
+    transform: rotate(45deg);
+}
+.boca div{
+    width: 30px;
+    height: 40px;
+}
+.linha-esquerda-boca {
+    border: 3px solid black;
+    border-color: transparent #000 #000 transparent;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 17px;
+}
+.linha-direita-boca {
+    border: 3px solid black;
+    border-color: transparent transparent #000 #000;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 45px;
+}
